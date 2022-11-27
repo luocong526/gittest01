@@ -9,7 +9,6 @@ package com.helloworld;
  **/
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("gitPro.....");
         System.out.println("Hello World!");
     }
 }
